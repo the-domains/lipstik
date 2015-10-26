@@ -1,0 +1,23 @@
+name: Lipstik
+favicon: null
+layout_spectrum: 0.5090592212509364
+typography_spectrum: 0.9100710714701563
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5162266832776368
+  lightness: 0.016149181639775634
+  saturation: 0.00018316390924155712
+  rhythmicContrast: 0.7927671608049423
+purpose: []
